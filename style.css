@@ -140,51 +140,6 @@ border: 1.5px solid var(--text-color);
   font-size: 24px;
 }
 
-#icone-insta-lateral {
-display: flex;
-position:absolute;
-padding: %;
-margin-top: 50px;
-left: 25%;
-top: +438px;
-font-size: 30px;
-margin: 20px;
-
-}
-
-#icone-whats-lateral {
-position:absolute;
-padding: %;
-margin-top: 50px;
-left: 25%;
-top: +500px;
-font-size: 30px;
-margin: 20px;
-}
-
-#icone-site-lateral {
-position:absolute;
-padding: %;
-margin-top: 50px;
-left: 25%;
-top: +300px;
-font-size: 30px;
-margin: 20px;
-}
-
-#icone-adobe-lateral {
-
-position:absolute;
-padding: %;
-margin-top: 50px;
-left: 25%;
-top: +368px;
-font-size: 30px;
-margin: 20px;
-
-}
-
-
 #social-media a {
   display: flex;
   align-items: center;
