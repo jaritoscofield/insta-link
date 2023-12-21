@@ -141,14 +141,15 @@ border: 1.5px solid var(--text-color);
 }
 
 #icone-insta-lateral {
-position: absolute;
-padding: ;
-margin-top: 50;
-left: %;
-top: 45.5%;
-align-items:  baseline;
+display: flex;
+position:absolute;
+padding: %;
+margin-top: 50px;
+left: 25%;
+top: +438px;
 font-size: 30px;
-margin: 20px
+margin: 20px;
+
 }
 
 #icone-whats-lateral {
