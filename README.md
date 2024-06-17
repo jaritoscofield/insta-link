@@ -23,7 +23,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 ## 🚀 Tecnologias
-
+ ESTOU ESTUDANDO PRA COLOCAR UM PAINEL ADMINISTRATIVO PARA PODER COMERCIALIZAR, AINDA NÃO CONSEGUI FAZER ESSE AJUSTE
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
